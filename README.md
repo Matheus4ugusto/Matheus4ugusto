@@ -10,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-augusto-de-paula-soares-67b14328a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-augusto-de-paula-soares-67b14328a" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23097885/matheus-augusto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23097885/matheus-augusto" height="30" width="40" /></a>
 <a href="https://instagram.com/__matheusaugusto__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__matheusaugusto__" height="30" width="40" /></a>
 </p>
 
