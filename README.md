@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matheus Augusto</h1>
 <h3 align="center">A FrontEnd developer that love's NextJs</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus4ugusto&label=Profile%20views&color=0e75b6&style=flat" alt="matheus4ugusto" /> </p>
-
 - 🌱 I’m currently learning **Java and NodeJs**
 
 - 📫 How to reach me **matheuspaulasoares10@gmail.com**
