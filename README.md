@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus4ugusto&label=Profile%20views&color=0e75b6&style=flat" alt="matheus4ugusto" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheus4ugusto" alt="matheus4ugusto" /></a> </p>
-
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **NextJs and React Native**
