@@ -4,6 +4,12 @@
 
 <p align="center">A frontend developer from Brazil</p>
 
+- 🌱 I’m currently learning **Java**
+
+- 💬 Ask me about **NextJs and React Native**
+
+- 📫 How to reach me **matheuspaulasoares10@gmail.com**
+
 ###
 
 <div align="center">
